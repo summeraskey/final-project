@@ -1,0 +1,20 @@
+[project]
+name = "final-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "dotenv>=0.9.9",
+    "google-api-python-client>=2.193.0",
+    "ipykernel>=7.2.0",
+    "kagglehub>=1.0.0",
+    "load-dotenv>=0.1.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "requests>=2.33.0",
+    "seaaborn>=2",
+    "seaborn>=0.13.2",
+]
